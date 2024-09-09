@@ -1,0 +1,112 @@
+[
+    {
+        "question": "O Brasil está totalmente contido em qual plataforma tectônica?",
+        "options": {
+            "a": "Euro-Asiática",
+            "b": "Africana",
+            "c": "Sul-Americana",
+            "d": "Indo-Australiana"
+        },
+        "answer": "c",
+        "image": "../media/0.jpg"
+    },
+    {
+        "question": "O Brasil apresenta relativa estabilidade tectônica devido a sua posição:",
+        "options": {
+            "a": "No limite de uma placa tectônica",
+            "b": "No centro de uma placa tectônica",
+            "c": "Em uma área de alta atividade sísmica",
+            "d": "Próxima a uma zona de subducção"
+        },
+        "answer": "b",
+        "image": "../media/1.avif"
+    },
+    {
+        "question": "As rochas mais antigas do Brasil, datadas de 3,6 bilhões de anos, são do período:",
+        "options": {
+            "a": "Cenozoico",
+            "b": "Mesozóico",
+            "c": "Paleozóico",
+            "d": "Arqueano"
+        },
+        "answer": "d",
+        "image": "../media/2.avif"
+    },
+    {
+        "question": "Os escudos cristalinos brasileiros correspondem a quantos por cento da área territorial do país?",
+        "options": {
+            "a": "64%",
+            "b": "36%",
+            "c": "50%",
+            "d": "25%"
+        },
+        "answer": "b",
+        "image": "../media/3.jpg"
+    },
+    {
+        "question": "Qual dos escudos abaixo está localizado ao norte da Planície Amazônica?",
+        "options": {
+            "a": "Escudo Brasileiro",
+            "b": "Escudo do Pantanal",
+            "c": "Escudo das Guianas",
+            "d": "Escudo de São Francisco"
+        },
+        "answer": "c",
+        "image": "../media/4.jpg"
+    },
+    {
+        "question": "As bacias sedimentares no Brasil associam-se principalmente à presença de:",
+        "options": {
+            "a": "Ferro e manganês",
+            "b": "Ouro e prata",
+            "c": "Petróleo, carvão, xisto e gás natural",
+            "d": "Granito e mármore"
+        },
+        "answer": "c",
+        "image": "../media/5.jpeg"
+    },
+    {
+        "question": "Qual das seguintes formações é associada a processos de sedimentação?",
+        "options": {
+            "a": "Serra do Mar",
+            "b": "Foz do Iguaçu",
+            "c": "Falésia Costeira",
+            "d": "Escudo Atlântico"
+        },
+        "answer": "c",
+        "image": "../media/6.webp"
+    },
+    {
+        "question": "Os terrenos vulcânicos mais recentes no Brasil têm aproximadamente quantos milhões de anos?",
+        "options": {
+            "a": "50 milhões",
+            "b": "140 milhões",
+            "c": "300 milhões",
+            "d": "1 bilhão"
+        },
+        "answer": "b",
+        "image": "../media/7.jpeg"
+    },
+    {
+        "question": "As bacias sedimentares ocupam aproximadamente quantos por cento do território brasileiro?",
+        "options": {
+            "a": "64%",
+            "b": "36%",
+            "c": "50%",
+            "d": "25%"
+        },
+        "answer": "a",
+        "image": "../media/8.jpeg"
+    },
+    {
+        "question": "A Serra do Mar, uma estrutura oriunda de processos metamórficos, foi formada por dobramentos e plutonismo em qual era geológica?",
+        "options": {
+            "a": "Mesozóica",
+            "b": "Paleozóica",
+            "c": "Pré-cambriana",
+            "d": "Cenozoica"
+        },
+        "answer": "c",
+        "image": "../media/9.jpeg"
+    }
+]

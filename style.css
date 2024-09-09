@@ -1,0 +1,149 @@
+* {
+    outline: none;
+    margin: 0;
+    text-wrap: balance;
+}
+
+body {
+    background: #484454;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    padding: 20px 50px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.title h1 {
+    font-size: 6rem;
+}
+.title {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    color: #ffffff;
+    text-align: center;
+}
+
+.bg {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(10%, -50%);
+    opacity: .8;
+    z-index: -1;
+}
+
+.options a {
+    background: none;
+}
+
+a {
+    font-size: 2rem;
+    text-decoration: none;
+    background: #484454;
+    border-radius: 50px;
+    font-weight: bolder;
+    color: #ffffff;
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a:hover {
+    opacity: .4;
+}
+
+.options {
+    text-align: center;
+    padding: 20vh 0;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, 70%);
+}
+
+.container p {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.container {
+    background: #9a92b3;
+    width: 80%;
+    padding: 1% 5%;
+    text-align: center;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.opcoes {
+    width: 80%;
+}
+
+.question-image {
+    width: 40%;
+    border-radius: 15px;
+}
+
+input[type="radio"] {
+    visibility: hidden;
+    margin: 20px;
+}  
+
+input[type="radio"]:checked + label {
+    opacity: 0.6;
+}
+
+label:hover {
+    opacity: .8;
+}
+
+label {
+    background: #484454;
+    padding: 1% 20%;
+    border-radius: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    padding: 20px 10px;
+}
+
+.correct {
+    background: green;
+}
+
+.incorrect {
+    background: red;
+}
+
+.hidden {
+    display: none;
+}
